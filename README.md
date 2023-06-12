@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @lebigmac64
-- 👀 I’m interested in extending my knowledge
- of python, receiving advice on what to learn,
- how to lear and eventually find my first
- developer job
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning C# backend development
 
 <!---
 lebigmac64/lebigmac64 is a ✨ special ✨
