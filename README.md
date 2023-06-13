@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lebigmac64
-- 🌱 I’m currently learning C# backend development
+- 🌱 I’m currently learning ASP.NET Core development
 
 <!---
 lebigmac64/lebigmac64 is a ✨ special ✨
